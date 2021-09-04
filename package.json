@@ -1,0 +1,11 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "basic node api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harun Biswas Rubel",
+  "license": "ISC"
+}
